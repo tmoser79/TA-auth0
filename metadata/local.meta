@@ -1,0 +1,19 @@
+[lookups/auth0_event_type_codes.csv]
+owner = admin
+version = 9.0.2
+modtime = 1672154202.911743000
+
+[eventtypes/auth0_authentication]
+owner = admin
+version = 9.0.2
+modtime = 1672151724.152429000
+
+[tags/eventtype%3Dauth0_authentication]
+owner = admin
+version = 9.0.2
+modtime = 1672151749.059824000
+
+[props/auth0]
+owner = admin
+version = 9.0.2
+modtime = 1672169400.137639000
